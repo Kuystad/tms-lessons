@@ -1,6 +1,4 @@
-q = tuple(input())
-tuple = set(q)
-print(q)
+print(tuple(set(input())))
 
 
 
