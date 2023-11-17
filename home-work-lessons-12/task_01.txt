@@ -1,0 +1,13 @@
+\d+
+\[A-Z]{2,}
+\[a-zA-Z]+\d
+\b[a-zA-Z]\w+\b
+\b[aeiouyAEIOUY]\w+\b
+\b\d+\b
+.*\*.*
+.*\(.*\).*
+,.*;
+(?<=>).+(?=<)
+(?<=\n)\n
+
+k sozhaleniu v virtual box net rus raskladki :(
